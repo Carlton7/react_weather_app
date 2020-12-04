@@ -17,6 +17,7 @@ body {
   width: 360px; 
   height: 640px;
   margin: 0px auto;
+  margin-top: 50px;
 }
 
 .app.warm {
@@ -52,7 +53,7 @@ main {
   transition: 0.4s ease;
 }
 
-.search-box .search-box:focus {
+.search-box .search-bar:focus {
   background-color: rgba(255,255,255, 0.75);
 }
 
