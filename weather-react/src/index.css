@@ -12,7 +12,7 @@ body {
   background-image: url('./assets/cold-bg.jpg');
   /* background-size: cover; */
   
-  transition: 0.4 ease-out;
+  transition: 0.4s ease-out;
   background-repeat: no-repeat;
   width: 360px; 
   height: 640px;
